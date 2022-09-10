@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 /**
+ * main - prints the alphebetic
  *
  * Return: Always (Success)
  */
