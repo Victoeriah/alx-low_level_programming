@@ -1,20 +1,16 @@
 #include <stdio.h>
 
 /**
- * main - prints the alpahbeth in lowercase.
  *
- * Return: Always 0.
+ * Return: Always (Success)
  */
 int main(void)
 {
-	char letter;
+	char c;
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-		putchar(letter);
+	for (c = 'a'; c <= 'z'; c++)
+		putchar(c);
 
 	putchar('\n');
-
-	retun (0);
+	return (0);
 }
-
-	
