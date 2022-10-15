@@ -1,4 +1,4 @@
-i#include "variadic_functions.h"
+#include "variadic_functions.h"
 
 /**
  * print_numbers - Prints a number followed by a separator
